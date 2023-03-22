@@ -77,5 +77,4 @@ I would like to thank Microverse for support.
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
-<a href="./LICENSE.md">LICENSE.md</a> >
 
